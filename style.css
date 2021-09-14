@@ -17,7 +17,7 @@
 body {
   height: 100vh;
   width: 100%;
-  background-color: #b6ddcf;
+  background-color: #fec5bb;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,7 +37,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #e3e0dd;
+  background-color: #fae1dd;
   padding: 2% 3%;
   border-radius: 30px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -66,7 +66,7 @@ form {
 form input {
   margin-bottom: 16px;
   margin-top: 6px;
-  background-color: #91c4b2;
+  background-color: #fec5bb;
   outline: none;
   border: none;
   font-weight: 500;
@@ -80,7 +80,8 @@ form input {
   margin-top: 12px;
   padding: 4px 26px;
   color: rgb(41, 41, 41);
-  background-color: #66cbca;
+  background-color: #e28888;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   border-radius: 16px;
   font-size: 1.2rem;
   border: none;
@@ -89,7 +90,7 @@ form input {
   font-weight: 500;
 }
 #calculate:hover {
-  background-color: #3f6e6d;
+  background-color: #b11b27;
   transition: 0.3s;
 }
 
